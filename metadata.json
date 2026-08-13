@@ -1,0 +1,6 @@
+{
+  "name": "Divya's Desk",
+  "description": "An interactive, game-like personal portfolio site styled as a cozy, explorable desktop scene.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
